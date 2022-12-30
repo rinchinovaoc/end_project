@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"><channel><title>ТАСС</title>
+<description>ИНФОРМАЦИОННОЕ АГЕНТСТВО РОССИИ ТАСС</description>
+<language>ru-ru</language>
+<link/><![CDATA[https://tass.ru]]>
+<copyright>ТАСС</copyright>
+<image/><url><![CDATA[https://tass.ru/i/rss/logo.png]]></url>
+<title>ТАСС</title>
+<link/><![CDATA[https://tass.ru]]>
+<atom:link href="https://tass.ru/rss/v2.xml" rel="self" type="application/rss+xml"></atom:link>
+<item><title>Полиция задержала подозреваемого в причастности к ЧП в ресторане в Турции</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16724587]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16724587]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:08:48 +0300</pubdate>
+<category>Происшествия</category>
+</item>
+<item><title>Минобрнауки создало 240 новых молодежных лабораторий в 2022 году</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724577]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724577]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:08:29 +0300</pubdate>
+<description>По словам главы ведомства Валерия Фалькова, больше всего таких лабораторий было создано в микроэлектронике</description>
+<category>Общество</category>
+<category>Наука</category>
+</item>
+<item><title>Дубов получил приз за лучшую атакующую комбинацию на чемпионате мира по рапиду и блицу</title>
+<link/><![CDATA[https://tass.ru/sport/16724585]]>
+<guid><![CDATA[https://tass.ru/sport/16724585]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:08:03 +0300</pubdate>
+<description>Россиянин был награжден за партию против Аниша Гири в быстрые шахматы</description>
+<category>Спорт</category>
+<category>Шахматы</category>
+<category>Шахматные турниры</category>
+</item>
+<item><title>Сектор гостеприимства Британии потерял в декабре из-за забастовок $1,8 млрд</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724563]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724563]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:06:11 +0300</pubdate>
+<description>По мнению главы ассоциации компаний сектора гостеприимства UKHospitality Кейт Николлс, это может привести к закрытию новых предприятий и заведений в течение предстоящих трех месяцев в дополнение к 2,5 тыс. прекративших существование за предыдущие три месяца</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Минсельхоз в мае внесет предложения, позволяющие фермерам оказывать услуги туризма</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724551]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724551]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:04:40 +0300</pubdate>
+<description>Кроме того, согласно документу, ведомство представит в правительство законопроект, уточняющий нормы регистрации пестицидов и агрохимикатов, в июле 2023 года</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Мишустин утвердил план законопроектной деятельности правительства на 2023 год</title>
+<link/><![CDATA[https://tass.ru/politika/16724557]]>
+<guid><![CDATA[https://tass.ru/politika/16724557]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:03:59 +0300</pubdate>
+<description>Документ состоит из шести блоков</description>
+<category>Политика</category>
+<category>Внутренняя политика</category>
+</item>
+<item><title>Пассажиропоток аэропорта Хибины в Заполярье может вырасти на 30% в 2023 году</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724535]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724535]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:03:29 +0300</pubdate>
+<description>Аэропорт может обслуживать и международные рейсы</description>
+<category>Общество</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Кабмин продлил на 2023 год возможность ввоза молочной сыворотки для детских смесей</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724545]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724545]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:02:22 +0300</pubdate>
+<description>С инициативой выступил Минсельхоз</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>У штаб-квартиры РВИО подняли флаг СССР</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724517]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724517]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:01:31 +0300</pubdate>
+<description>30 декабря исполняется 100 лет со дня образования Советского Союза</description>
+<category>Общество</category>
+</item>
+<item><title>Изменить условия полиса ОСАГО или отказаться от него можно без визита к страховщику</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724539]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724539]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:01:24 +0300</pubdate>
+<description>В ЦБ также отметили, что в случае, если страховая компания не дает возможности дистанционно внести изменения в полис ОСАГО или отказаться от него и вернуть деньги, следует направить обращение регулятору через интернет-приемную</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Новосибирские предприниматели собрали 7 млн рублей для закупки снаряжения участникам СВО</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724533]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724533]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:00:28 +0300</pubdate>
+<description>На эти средства уже закупили более 1 тыс. аптечек, а также антидронные ружья, квадрокоптеры и пауэрбанки</description>
+<category>Общество</category>
+<category>Сибирь</category>
+</item>
+<item><title>Кабмин продлил на год эксперимент по приему органами власти обращений через "Госуслуги"</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724527]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724527]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:00:28 +0300</pubdate>
+<description>Он будет проводиться до 31 декабря 2023 года</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Принятие конституций ДНР и ЛНР и уход Воложа из "Яндекса". Главные события 30 декабря</title>
+<link/><![CDATA[https://tass.ru/politika/16724197]]>
+<guid><![CDATA[https://tass.ru/politika/16724197]]></guid>
+<pubdate>Fri, 30 Dec 2022 18:00:01 +0300</pubdate>
+<enclosure length="1559022" type="image/jpeg" url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078057.jpg"></enclosure>
+<category>Политика</category>
+<category>Экономика и бизнес</category>
+<category>Внешняя политика</category>
+</item>
+<item><title>СМИ: подрывом уничтожили остатки сбитой в Белоруссии украинской ракеты</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724485]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724485]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:59:59 +0300</pubdate>
+<description>Обломки ракеты упали у деревни Горбаха Ивановского района Брестской области</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Ростех передал МЧС первые вертолеты для работы в Арктике</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724457]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724457]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:57:51 +0300</pubdate>
+<description>В госкорпорации подчеркнули, что этой поставкой закрыты контрактные обязательства перед МЧС в 2022 году, в общей сложности ведомству переданы 7 вертолетов</description>
+<category>Общество</category>
+<category>Арктика</category>
+</item>
+<item><title>Парк автомобилей в каршеринге в РФ может вырасти более чем до 170 тыс. единиц к 2025 году</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724511]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724511]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:57:41 +0300</pubdate>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>ДНР и ЛНР войдут в новый год с новыми конституциями</title>
+<link/><![CDATA[https://tass.ru/politika/16724475]]>
+<guid><![CDATA[https://tass.ru/politika/16724475]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:55:42 +0300</pubdate>
+<description>От предыдущих их отличает в первую очередь закрепление статуса республик в качестве регионов РФ</description>
+<category>Политика</category>
+</item>
+<item><title>РУСАДА и Турецкая антидопинговая лаборатория обсудили план совместной работы в 2023 году</title>
+<link/><![CDATA[https://tass.ru/sport/16724497]]>
+<guid><![CDATA[https://tass.ru/sport/16724497]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:53:36 +0300</pubdate>
+<description>Встреча состоялась 27 декабря в Анкаре</description>
+<category>Спорт</category>
+<category>Допинг в спорте</category>
+</item>
+<item><title>X5 заявила, что количество пестицидов в мандаринах "Перекрестка" не превышает норму</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724175]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724175]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:51:40 +0300</pubdate>
+<description>В компании заверили, что тщательно следят за качеством продукции</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Бангладеш не пустила судно с грузом для АЭС из-за санкций США</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724425]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724425]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:51:21 +0300</pubdate>
+<description>К Росатому у бангладешской стороны нет претензий</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Раненым добровольцам СВО из Рязанской области будут выплачивать по 500 тыс. рублей</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724459]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724459]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:49:34 +0300</pubdate>
+<description>Семьям погибших власти региона выплатят по 1 млн рублей</description>
+<category>Общество</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>ЦБ снизил оценку профицита внешней торговли РФ в январе - сентябре до $236,5 млрд</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724417]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724417]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:47:04 +0300</pubdate>
+<description>При этом оценка профицита счета платежного баланса РФ за 9 месяцев 2022 года также была понижена</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Колосков считает, что вопрос о переходе РФС в Азию нельзя было решить за две недели</title>
+<link/><![CDATA[https://tass.ru/sport/16724445]]>
+<guid><![CDATA[https://tass.ru/sport/16724445]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:46:40 +0300</pubdate>
+<description>В пятницу исполком РФС принял решение создать рабочую группу для взаимодействия с Международной федерацией футбола, Союзом европейских футбольных ассоциаций (УЕФА) и другими конфедерациями</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Футбол в России</category>
+</item>
+<item><title>В Думе считают, что связи РФ и КНР сохранят высокий уровень с новым главой китайского МИД</title>
+<link/><![CDATA[https://tass.ru/politika/16723973]]>
+<guid><![CDATA[https://tass.ru/politika/16723973]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:46:27 +0300</pubdate>
+<description>По словам первого вице-спикера Госдумы Ивана Мельникова, "китайский подход к назначению на высокие посты остается прагматичным и мудрым"</description>
+<category>Политика</category>
+<category>Внешняя политика</category>
+</item>
+<item><title>СМИ: все КПП между Центральной Сербией и Косовом возобновили работу</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724363]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724363]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:37:42 +0300</pubdate>
+<description>Речь идет о контрольно-пропускных пунктах "Ярине" и "Брняк"</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Президент "Сантоса" поддержал отказ от использования номера, под которым играл Пеле</title>
+<link/><![CDATA[https://tass.ru/sport/16724371]]>
+<guid><![CDATA[https://tass.ru/sport/16724371]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:37:24 +0300</pubdate>
+<description>Пеле умер 29 декабря</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Умер Пеле</category>
+</item>
+<item><title>В Ватикане заявили, что состояние Папы Бенедикта XVI стабильное</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724305]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724305]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:35:56 +0300</pubdate>
+<description>Вся медицинская помощь ему оказывается в месте проживания</description>
+<enclosure length="2900223" type="image/jpeg" url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078047.jpg"></enclosure>
+<category>Общество</category>
+</item>
+<item><title>Путину предложили прекратить действие международных договоров Совета Европы в отношении РФ</title>
+<link/><![CDATA[https://tass.ru/politika/16724339]]>
+<guid><![CDATA[https://tass.ru/politika/16724339]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:33:38 +0300</pubdate>
+<description>Как отметили в МИД России, НАТО и Евросоюз "последовательно превращают организацию в инструмент антироссийской политики"</description>
+<category>Политика</category>
+<category>Внешняя политика</category>
+</item>
+<item><title>Электромобили будут составлять до 15% авторынка России к 2030 году</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724349]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724349]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:33:06 +0300</pubdate>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В аэропорту Казани открылась выставка к юбилеям Максима Горького и Федора Шаляпина</title>
+<link/><![CDATA[https://tass.ru/kultura/16724321]]>
+<guid><![CDATA[https://tass.ru/kultura/16724321]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:30:33 +0300</pubdate>
+<description>На выставке представлены уникальные фотографии</description>
+<category>Культура</category>
+</item>
+<item><title>Путин скорректировал указ о продаже доли в "Сахалине - 2"</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724325]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724325]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:30:11 +0300</pubdate>
+<description>Президент исключил требование о передаче доли Shell в течение четырех месяцев</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Власти рассматривают бытовую причину взрыва газа в ресторане в Турции как основную версию</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16724277]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16724277]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:27:48 +0300</pubdate>
+<description>В результате происшествия семь человек погибли и пять пострадали, один из них получил тяжелое ранение</description>
+<category>Происшествия</category>
+</item>
+<item><title>Путин поручил содействовать в проведении соревнований в ШОС, в том числе паралимпийских</title>
+<link/><![CDATA[https://tass.ru/sport/16724259]]>
+<guid><![CDATA[https://tass.ru/sport/16724259]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:26:29 +0300</pubdate>
+<description>Поручение дано по итогам состоявшейся 2 декабря встречи президента РФ с инвалидами и представителями общественных организаций</description>
+<category>Спорт</category>
+</item>
+<item><title>В Еврокомиссии считают, что планы США субсидировать свои компании могут сблизить ЕС и КНР</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723917]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723917]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:25:43 +0300</pubdate>
+<description>По словам замглавы ЕК Валдиса Домбровскиса, попытка Вашингтона снизить зависимость от Пекина с помощью новых экономических мер "может сработать против заявленных целей"</description>
+<enclosure length="4819266" type="image/jpeg" url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078061.jpg"></enclosure>
+<category>Международная панорама</category>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин поручил определить критерии нуждаемости инвалидов в уходе</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724117]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724117]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:25:28 +0300</pubdate>
+<description>Президент также поручил проанализировать возможности для создания в российских субъектах творческих инклюзивных центров с учетом опыта арт-поместья "Новые берега" в Пензенской области</description>
+<category>Общество</category>
+</item>
+<item><title>Глава МИД Сербии проинформировал посла России об актуальной ситуации в Косове и Метохии</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724251]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724251]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:25:13 +0300</pubdate>
+<description>Также были рассмотрены возможности дальнейшего развития двустороннего взаимодействия</description>
+<category>Международная панорама</category>
+<category>Эскалация в Косове</category>
+</item>
+<item><title>Bloomberg: экспорт нефтепродуктов по морю из РФ взлетит перед введением ограничений ЕС</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724179]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724179]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:23:00 +0300</pubdate>
+<description>Как уточняет Bloomberg, подобная тенденция связана с предстоящим запретом Евросоюза на морские поставки российских нефтепродуктов, который вступает в силу 5 февраля и будет иметь "разрушительные последствия" для экономики сообщества</description>
+<enclosure length="4673636" type="image/jpeg" url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078069.jpg"></enclosure>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Комитет по доходам и расходам Конгресса США опубликовал налоговые декларации Трампа</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724223]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724223]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:13:49 +0300</pubdate>
+<description>В заявлении председателя комитета Ричарда Нила подчеркивается, что законодатели в течение четырех лет проверяли работу американской Службы внутренних доходов</description>
+<enclosure length="5128669" type="image/jpeg" url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078051.jpg"></enclosure>
+<category>Международная панорама</category>
+</item>
+<item><title>Минобрнауки обеспечивает ученым доступ к научной информации, несмотря на санкции</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724185]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724185]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:13:03 +0300</pubdate>
+<description>В то же время глава ведомства Валерий Фальков отметил появление некоторых "непреодолимых ограничений" и подчеркнул необходимость "совершенно по-другому развивать отечественные научные журналы"</description>
+<category>Общество</category>
+</item>
+<item><title>Дюков заявил, что УЕФА хочет найти решение по возвращению сборной России на турниры</title>
+<link/><![CDATA[https://tass.ru/sport/16724217]]>
+<guid><![CDATA[https://tass.ru/sport/16724217]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:12:12 +0300</pubdate>
+<description>По словам главы РФС, мосты с Союзом европейских футбольных ассоциаций не сожжены</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Сборные по футболу</category>
+</item>
+<item><title>Женщина погибла в Ясиноватой ДНР при обстреле со стороны украинских войск</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16724201]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16724201]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:11:03 +0300</pubdate>
+<description>Также, по словам мэра города Дмитрия Шевченко, ранения получил мужчина</description>
+<category>Политика</category>
+<category>Происшествия</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Фетисов: мир недооценил возможности Пеле как посла спорта для избежания конфликтов</title>
+<link/><![CDATA[https://tass.ru/sport/16724199]]>
+<guid><![CDATA[https://tass.ru/sport/16724199]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:10:12 +0300</pubdate>
+<description>Трехкратный чемпион мира по футболу скончался 29 декабря на 83-м году жизни</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Умер Пеле</category>
+</item>
+<item><title>Генпрокуратура Белоруссии направила в суд уголовное дело в отношении основателей Nexta</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16724189]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16724189]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:08:23 +0300</pubdate>
+<description>По информации ведомства, в отношении Путило и Рудика с согласия генпрокурора провели специальное производство на основании постановления председателя СК республики</description>
+<category>Происшествия</category>
+</item>
+<item><title>Путин поручил выделить 250 млн рублей на санаторий для граждан с нарушениями слуха</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724149]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724149]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:04:50 +0300</pubdate>
+<description>Создать центр планируется в 2023-2025 годах</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Рабочая группа РФС по взаимодействию с конфедерациями завершит работу к 1 апреля</title>
+<link/><![CDATA[https://tass.ru/sport/16724163]]>
+<guid><![CDATA[https://tass.ru/sport/16724163]]></guid>
+<pubdate>Fri, 30 Dec 2022 17:02:23 +0300</pubdate>
+<description>Предполагается, что рабочая группа будет создана сразу после праздников, отметил глава РФС</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Сборные по футболу</category>
+</item>
+<item><title>ВМФ в 2023 году получит атомный подводный крейсер "Император Александр III"</title>
+<link/><![CDATA[https://tass.ru/armiya-i-opk/16724113]]>
+<guid><![CDATA[https://tass.ru/armiya-i-opk/16724113]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:58:57 +0300</pubdate>
+<description>В состав флота также войдут четыре подводные лодки и 12 надводных кораблей и судов обеспечения</description>
+<category>Армия и ОПК</category>
+</item>
+<item><title>Объявили победителей конкурса современной русскоязычной драматургии "Действующие лица"</title>
+<link/><![CDATA[https://tass.ru/kultura/16724109]]>
+<guid><![CDATA[https://tass.ru/kultura/16724109]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:56:14 +0300</pubdate>
+<description>По решению жюри, победителем стала пьеса "Волшебник и песчинка" Анны Гейжан, на втором месте - "Полина ищет па" Екатерины Тимофеевой, на третьем - "Мамочка" Тони Яблочкиной</description>
+<category>Культура</category>
+</item>
+<item><title>Белгородский губернатор сообщил о восстановлении 1,6 тыс. поврежденных при обстрелах домов</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16724091]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16724091]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:54:24 +0300</pubdate>
+<description>По словам Вячеслава Гладкова, около 7 тыс. жителей временно отселили в безопасные места</description>
+<category>Общество</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Equinor и Polenergia заключили контракт с Hitachi Energy для работ в сфере ветроэнергетики</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724053]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724053]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:53:29 +0300</pubdate>
+<description>Проекты находятся в ожидании окончательного инвестиционного решения, запланированного на 2024 год</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>СМИ: Бразилия сняла запрет на въезд в страну президента Венесуэлы Мадуро</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724025]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16724025]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:51:36 +0300</pubdate>
+<description>Глава Боливарианской Республики сможет принять участие в запланированной на 1 января инаугурации избранного президента Бразилии Луиса Инасиу Лулы да Силвы</description>
+<category>Международная панорама</category>
+</item>
+<item><title>В ресторане в Турции произошел взрыв</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16724075]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16724075]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:50:58 +0300</pubdate>
+<description>Погибли семь человек</description>
+<enclosure length="4083842" type="image/jpeg" url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078041.jpg"></enclosure>
+<category>Происшествия</category>
+</item>
+<item><title>Саудовская Аравия обещает восстановить россиянам полную квоту на хадж в 2023 году</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723997]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723997]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:48:10 +0300</pubdate>
+<description>Муфтий Равиль Гайнутдин уточнил, что в 2022 году 12,5 тыс. паломников из России отправились в хадж</description>
+<category>Общество</category>
+</item>
+<item><title>Дюков заявил, что целью РФС является участие сборной в отборе на чемпионат мира 2026 года</title>
+<link/><![CDATA[https://tass.ru/sport/16724039]]>
+<guid><![CDATA[https://tass.ru/sport/16724039]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:46:35 +0300</pubdate>
+<description>Исполком РФС принял решение создать рабочую группу для взаимодействия с ФИФА, УЕФА и другими конфедерациями</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Сборные по футболу</category>
+</item>
+<item><title>Захарова отметила конструктивные шаги Белграда по мирному разрешению кризиса вокруг Косова</title>
+<link/><![CDATA[https://tass.ru/politika/16724031]]>
+<guid><![CDATA[https://tass.ru/politika/16724031]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:46:26 +0300</pubdate>
+<description>Тем не менее, по словам официального представителя МИД РФ, достигнутый компромисс неустойчив и не учитывает важные для сербов вопросы</description>
+<enclosure length="4188929" type="image/jpeg" url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078017.jpg"></enclosure>
+<category>Политика</category>
+<category>Внешняя политика</category>
+<category>Эскалация в Косове</category>
+</item>
+<item><title>BMW продолжает поставки запчастей в Россию</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16724013]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16724013]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:44:09 +0300</pubdate>
+<description>В компании отметили, что на данный момент продолжают свою деятельность в рамках объявленных в марте решений</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Власти Израиля будут требовать от прибывающих из Китая тест на ковид</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723945]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723945]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:43:06 +0300</pubdate>
+<description>Мера одобрена министром здравоохранения Израиля Арье Дери на основании рекомендаций специалистов ведомства</description>
+<category>Общество</category>
+<category>Пандемия COVID-19</category>
+</item>
+<item><title>Дюков: никто из членов исполкома РФС не высказывался за переход организации в AFC</title>
+<link/><![CDATA[https://tass.ru/sport/16723991]]>
+<guid><![CDATA[https://tass.ru/sport/16723991]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:41:48 +0300</pubdate>
+<description>В пятницу исполком РФС принял решение создать рабочую группу для взаимодействия с ФИФА, УЕФА и другими конфедерациями</description>
+<enclosure length="4904545" type="image/jpeg" url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078003.jpg"></enclosure>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Сборные по футболу</category>
+</item>
+<item><title>Путин поручил создать в ДНР центр реабилитации людей с инвалидностью</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723985]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723985]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:38:15 +0300</pubdate>
+<description>Реализация поручения возложена на кабмин РФ и региональное правительство</description>
+<category>Общество</category>
+</item>
+<item><title>Путин поручил проработать индексацию страховых пенсий работающим людям с инвалидностью</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723967]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723967]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:36:28 +0300</pubdate>
+<description>Также президент поручил расширить возможности использования электронного сертификата для приобретения инвалидами отдельных видов товаров, работ и услуг</description>
+<enclosure length="103339" type="image/jpeg" url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078035.jpg"></enclosure>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В центре Петербурга перекроют движение 31 декабря из-за праздничных мероприятий</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723963]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723963]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:36:21 +0300</pubdate>
+<description>Автобусы, троллейбусы и трамваи будут работать по графикам выходных дней</description>
+<category>Общество</category>
+<category>Северо-Запад</category>
+<category>Новый год и Рождество</category>
+</item>
+<item><title>Число погибших при взрыве бензовоза в ЮАР возросло до 34</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16723905]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16723905]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:35:04 +0300</pubdate>
+<description>Новые смерти стали результатом сильных ожогов, полученных пострадавшими, подчеркивают специалисты</description>
+<category>Происшествия</category>
+</item>
+<item><title>Филатов прокомментировал третье место шахматистки Шуваловой на чемпионате мира по блицу</title>
+<link/><![CDATA[https://tass.ru/sport/16723933]]>
+<guid><![CDATA[https://tass.ru/sport/16723933]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:33:24 +0300</pubdate>
+<description>Глава Федерации шахмат России выразил уверенность, что Полина Шувалова и дальше будет радовать российских болельщиков победами</description>
+<enclosure length="1921540" type="image/jpeg" url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7077999.jpg"></enclosure>
+<category>Спорт</category>
+<category>Шахматы</category>
+<category>Шахматные турниры</category>
+</item>
+<item><title>Аэропорт Хибины горнолыжного курорта в Заполярье принял 130 первых пассажиров из Москвы</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723927]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723927]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:33:05 +0300</pubdate>
+<description>С января 2023 года планируют увеличить количество рейсов в Хибины из Москвы</description>
+<category>Общество</category>
+<category>Экономика и бизнес</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Россия и Танзания создадут межправкомиссию по торгово-экономическому сотрудничеству</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723899]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723899]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:32:10 +0300</pubdate>
+<description>Среди перспективных направлений сотрудничества - геологоразведка и добыча полезных ископаемых, туризм, энергетика, информационно-коммуникационные технологии</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Минобрнауки завершает формирование национальной системы высшего образования</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723869]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723869]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:28:04 +0300</pubdate>
+<description>По словам главы ведомства Валерия Фалькова, российским университетам дадут "большую свободу, в том числе в определении сроков обучения"</description>
+<enclosure length="2495628" type="image/jpeg" url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7077995.jpg"></enclosure>
+<category>Общество</category>
+</item>
+<item><title>В Мариуполе переселили из разрушенных домов всех жителей</title>
+<link/><![CDATA[https://tass.ru/nedvizhimost/16723709]]>
+<guid><![CDATA[https://tass.ru/nedvizhimost/16723709]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:26:29 +0300</pubdate>
+<description>По словам министра строительства и ЖКХ России Ирека Файзуллина, в новых регионах созданы пункты временного размещения граждан, и сейчас в городе нет людей, которые живут в нечеловеческих условиях</description>
+<category>Общество</category>
+<category>Недвижимость</category>
+</item>
+<item><title>Пожар произошел на неиспользуемом судне в Кронштадте</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16723877]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16723877]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:25:08 +0300</pubdate>
+<description>По данным ресурса marinetraffic, судно относится к 1969 году постройки</description>
+<enclosure length="7391210" type="image/jpeg" url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078027.jpg"></enclosure>
+<category>Происшествия</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Газ в Европе торгуется ниже $830 за 1 тыс. куб. м впервые с 21 февраля</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723853]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723853]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:23:28 +0300</pubdate>
+<description>Котировки снижаются на фоне теплой погоды на континенте</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>ЦБ рекомендовал финансовым организациям оценивать воздействие ESG-факторов на компанию</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723875]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723875]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:22:01 +0300</pubdate>
+<description>Также следует определять цели и задачи в области устойчивого развития, говорится в сообщении регулятора</description>
+<category>Экономика и бизнес</category>
+<category>Устойчивое развитие и ответственное потребление</category>
+</item>
+<item><title>Китай расширил список поставщиков рыбопродукции из России до 818 компаний</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723801]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723801]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:20:51 +0300</pubdate>
+<description>Как отметили в Россельхознадзоре, Главное таможенное управление КНР аттестовало еще два российских предприятия </description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>РЖД и "Туркменские железные дороги" подписали программу сотрудничества до 2025 года</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723863]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723863]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:20:38 +0300</pubdate>
+<description>Программа предполагает широкомасштабное взаимодействие между сторонами</description>
+<category>Экономика и бизнес</category>
+<category>Транспорт</category>
+</item>
+<item><title>Губернатор Подмосковья исполнил новогодние желания детей из ДНР</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723811]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723811]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:20:04 +0300</pubdate>
+<description>Андрей Воробьев передал планшет девочке из Мариуполя, а мальчику из Донецка подарок в виде ноутбука и игрового кресла </description>
+<category>Общество</category>
+<category>Новый год и Рождество</category>
+<category>Московская область</category>
+</item>
+<item><title>Шувалова заявила, что упустила лидерство на чемпионате мира по блицу из-за усталости</title>
+<link/><![CDATA[https://tass.ru/sport/16723835]]>
+<guid><![CDATA[https://tass.ru/sport/16723835]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:19:45 +0300</pubdate>
+<description>Россиянка занимала первое место после 15 туров из 17, но в итоге заняла третью позицию</description>
+<enclosure length="27000040" type="video/mp4" url="https://videocdn.itar-tass.com/tass/m2/uploads/v/50525.video_sd.mp4"></enclosure>
+<category>Спорт</category>
+<category>Шахматы</category>
+<category>Шахматные турниры</category>
+</item>
+<item><title>РФС создаст рабочую группу для взаимодействия с ФИФА, УЕФА и другими конфедерациями</title>
+<link/><![CDATA[https://tass.ru/sport/16723821]]>
+<guid><![CDATA[https://tass.ru/sport/16723821]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:18:39 +0300</pubdate>
+<description>Сроки работы органа составят три месяца</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Сборные по футболу</category>
+</item>
+<item><title>В Кисловодске благоустроят первую курортную аллею за 540 млн рублей</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723827]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723827]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:18:03 +0300</pubdate>
+<description>Аллея будет располагаться на улице Профинтерна - от входа в Нижний парк до санатория "Родник", работы на объекте должны выполнить до 2025 года</description>
+<category>Общество</category>
+<category>Северный Кавказ</category>
+</item>
+<item><title>Список поставщиков рыбной продукции из РФ в Саудовскую Аравию расширен до 12 предприятий</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723741]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723741]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:14:42 +0300</pubdate>
+<description>Россельхознадзор продолжит работу по расширению перечня российских предприятий, имеющих право экспорта в Саудовскую Аравию</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Олонецком районе Карелии открыли дом культуры</title>
+<link/><![CDATA[https://tass.ru/nacionalnye-proekty/16723763]]>
+<guid><![CDATA[https://tass.ru/nacionalnye-proekty/16723763]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:14:20 +0300</pubdate>
+<description>На его возведение направили 58 млн рублей</description>
+<category>Северо-Запад</category>
+<category>Национальные проекты</category>
+</item>
+<item><title>ЦБ РФ понизил курс доллара с 31 декабря по 9 января до 70,34 рублей</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723805]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723805]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:13:27 +0300</pubdate>
+<description>Регулятор также опустил курс евро до 75,66 рублей и повысил курс юаня до 9,895 рублей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Шахматистка Шувалова стала третьей на женском чемпионате мира по блицу</title>
+<link/><![CDATA[https://tass.ru/sport/16723793]]>
+<guid><![CDATA[https://tass.ru/sport/16723793]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:12:31 +0300</pubdate>
+<description>Победила Бибисара Асаубаева из Казахстана, второй стала представительница Индии Хампи Конеру</description>
+<enclosure length="7095502" type="video/mp4" url="https://videocdn.itar-tass.com/tass/m2/uploads/v/50527.video_sd.mp4"></enclosure>
+<category>Спорт</category>
+<category>Шахматы</category>
+<category>Шахматные турниры</category>
+</item>
+<item><title>Минфин в I квартале 2023 года планирует разместить ОФЗ на 800 млрд рублей</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723757]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723757]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:09:41 +0300</pubdate>
+<description>Согласно ведомству, объем ОФЗ со сроком погашения до пяти лет составит 100 млрд рублей, от 5 до 10 лет - 400 млрд рублей, от 10 лет - 300 млрд рублей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Глава МИД Австрии назвал невозможным создание стабильной архитектуры безопасности без РФ</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723693]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723693]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:09:03 +0300</pubdate>
+<description>Александер Шалленберг отметил, что Россия не исчезнет с карты и останется "крупнейшим соседом Европы"</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Капитан футбольного "Динамо" Фомин поделился воспоминаниями о встрече с Пеле</title>
+<link/><![CDATA[https://tass.ru/sport/16723745]]>
+<guid><![CDATA[https://tass.ru/sport/16723745]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:08:44 +0300</pubdate>
+<description>Пеле умер 29 декабря в возрасте 82 лет</description>
+<enclosure length="236961" type="image/jpeg" url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7077985.jpg"></enclosure>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Умер Пеле</category>
+</item>
+<item><title>На Кубани задержали 15 участников преступного сообщества, вовлекавших женщин в проституцию</title>
+<link/><![CDATA[https://tass.ru/proisshestviya/16723739]]>
+<guid><![CDATA[https://tass.ru/proisshestviya/16723739]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:08:18 +0300</pubdate>
+<description>Возбудили уголовные дела</description>
+<category>Происшествия</category>
+</item>
+<item><title>На границе ЛНР и Белгородской области введут особый режим въезда-выезда</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723721]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723721]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:06:57 +0300</pubdate>
+<description>Режим начнет действовать c 1 января</description>
+<category>Общество</category>
+</item>
+<item><title>В Думу внесли проект о восстановлении ипотечного счета при заключении контракта с ВС РФ</title>
+<link/><![CDATA[https://tass.ru/nedvizhimost/16723669]]>
+<guid><![CDATA[https://tass.ru/nedvizhimost/16723669]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:06:03 +0300</pubdate>
+<description>Как отмечают авторы инициативы, период военной службы по контракту участника НИС, за который ему предоставляются накопления для жилищного обеспечения, составляет в основном от 20 лет, но не все имеют право на восстановление накоплений на именном накопительном счете</description>
+<category>Общество</category>
+<category>Недвижимость</category>
+</item>
+<item><title>Карлсен рассказал, что катание на лыжах помогло ему выиграть чемпионат мира по блицу</title>
+<link/><![CDATA[https://tass.ru/sport/16723725]]>
+<guid><![CDATA[https://tass.ru/sport/16723725]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:05:30 +0300</pubdate>
+<description>Гроссмейстер отметил, что его вдохновила близость красивых гор к городу</description>
+<category>Спорт</category>
+<category>Шахматы</category>
+<category>Шахматные турниры</category>
+</item>
+<item><title>Минобороны КНР предостерегло США от поставок Тайваню противотанковых систем Volcano</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723715]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723715]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:03:43 +0300</pubdate>
+<description>По словам китайского оборонного ведомства, Соединенные Штаты играют с огнем и "могут обжечься"</description>
+<enclosure length="5122105" type="image/jpeg" url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7078007.jpg"></enclosure>
+<category>Международная панорама</category>
+</item>
+<item><title>Почти 23 млн россиян досрочно получили январские пенсии</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723689]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723689]]></guid>
+<pubdate>Fri, 30 Dec 2022 16:02:16 +0300</pubdate>
+<description>Если человек получает пенсию в банке, а дата перечисления средств приходится на первые дни января, то деньги переводятся на счет раньше - в последние числа декабря</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Шахматист Карлсен стал шестикратным чемпионом мира по блицу</title>
+<link/><![CDATA[https://tass.ru/sport/16723653]]>
+<guid><![CDATA[https://tass.ru/sport/16723653]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:59:28 +0300</pubdate>
+<description>Второе место занял американец Хикару Накамура, третье - армянин Айк Мартиросян</description>
+<enclosure length="3609128" type="image/jpeg" url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7077973.jpg"></enclosure>
+<category>Спорт</category>
+<category>Шахматы</category>
+<category>Шахматные турниры</category>
+</item>
+<item><title>В ЛНР заявили, что реорганизация органов власти региона займет три месяца</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723611]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723611]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:56:51 +0300</pubdate>
+<description>Министр финансов республики Евгений Мануйлов отметил, что это предусмотрено в бюджете на 2023 год</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>МИД РФ продолжает предпринимать шаги для урегулирования ситуации в Лачинском коридоре</title>
+<link/><![CDATA[https://tass.ru/politika/16723623]]>
+<guid><![CDATA[https://tass.ru/politika/16723623]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:56:43 +0300</pubdate>
+<description>Любые выпады и провокации в отношении российских миротворцев вредят урегулированию между Арменией и Азербайджаном, отметили в дипведомстве</description>
+<enclosure length="9694581" type="image/jpeg" url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7077977.jpg"></enclosure>
+<category>Политика</category>
+<category>Внешняя политика</category>
+<category>Ситуация в зоне нагорнокарабахского конфликта</category>
+</item>
+<item><title>СБУ заочно предъявила обвинения первому замминистра угля ДНР</title>
+<link/><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723593]]>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16723593]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:55:52 +0300</pubdate>
+<description>Служба не называет имени обвиняемого, однако публикует фотографию первого заместителя министра угля и энергетики ДНР Анатолия Нестеренко, который в этом году некоторое время был временным исполняющим обязанности главы Минугля республики</description>
+<category>Международная панорама</category>
+</item>
+<item><title>В регионах Центральной России к 1 января прогнозируют потепление</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723581]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723581]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:53:39 +0300</pubdate>
+<description>По прогнозу, температура воздуха в среднем составит 5-8 градусов</description>
+<category>Общество</category>
+</item>
+<item><title>В Кировской области в 2023 году появятся первые автоклубы</title>
+<link/><![CDATA[https://tass.ru/nacionalnye-proekty/16723557]]>
+<guid><![CDATA[https://tass.ru/nacionalnye-proekty/16723557]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:48:50 +0300</pubdate>
+<description>Их оснастят сценой-трансформером, спутниковой антенной, а также звуковым, компьютерным и мультимедийным оборудованием</description>
+<category>Общество</category>
+<category>Культура</category>
+<category>Национальные проекты</category>
+<category>Нацпроект "Культура"</category>
+</item>
+<item><title>Курс доллара в ходе торгов на Мосбирже опустился ниже 70 рублей</title>
+<link/><![CDATA[https://tass.ru/ekonomika/16723565]]>
+<guid><![CDATA[https://tass.ru/ekonomika/16723565]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:48:40 +0300</pubdate>
+<description>Евро опустился ниже 74 рублей</description>
+<category>Экономика и бизнес</category>
+<category>Колебания курса рубля</category>
+</item>
+<item><title>Глава Дагестана исполнил новогодние желания детей из ДНР</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723555]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723555]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:47:42 +0300</pubdate>
+<description>Сергей Меликов исполнил мечты детей, оказавшихся в трудной жизненной ситуации, в числе которых сироты, дети из многодетных семей, дети военнослужащих-участников СВО</description>
+<category>Общество</category>
+<category>Новый год и Рождество</category>
+</item>
+<item><title>Вход на Красную площадь в новогоднюю ночь будет ограничен</title>
+<link/><![CDATA[https://tass.ru/obschestvo/16723547]]>
+<guid><![CDATA[https://tass.ru/obschestvo/16723547]]></guid>
+<pubdate>Fri, 30 Dec 2022 15:46:47 +0300</pubdate>
+<description>При этом ограничений дорожного движения и прохода граждан на Тверскую улицу и в переулки во время праздников не планируется</description>
+<enclosure length="7067116" type="image/jpeg" url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221230/7077969.jpg"></enclosure>
+<category>Москва</category>
+<category>Общество</category>
+</item>
+</channel>
+</rss>
