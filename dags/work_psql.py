@@ -18,7 +18,6 @@ def conn_exec_query(conn_id, query):
     
     cursor = conn.cursor()
     cursor.execute(query)
-    #cursor.execute('SELECT table_name FROM information_schema.tables')
     conn.commit()
     cursor.close()
     conn.close()
@@ -28,5 +27,3 @@ def save_input_data(data):
     with open(file_path, "w", encoding="utf8") as file:
         file.write(str(data))
     file.close
-    ##conn_exec_query(conn_id = 'postgre_conn', query = "CALL insert_input_data('"+file_path+"');")
-
